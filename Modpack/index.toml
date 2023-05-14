@@ -609,6 +609,10 @@ file = ".fabric/remappedJars/minecraft-1.19.2-0.14.19/client-intermediary.jar"
 hash = "5629cffd2950cfb6aa8294a6327689cf04415f0fc86b72b304de0b429780b94b"
 
 [[files]]
+file = "Readme.md"
+hash = "88e7a390b17fb535de7b8b0417f2bcdd9700e936aa4c9d22546ec39b95d77fcb"
+
+[[files]]
 file = "config/.puzzle_cache/mojangstudios.png"
 hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
 
@@ -1215,6 +1219,10 @@ hash = "5a36eb1f8b7ce51b3c009a1c31afb395ca8904a3055e323dbfde145a1c855028"
 [[files]]
 file = "mods/PuzzlesLib-v4.4.0-1.19.2-Fabric.jar"
 hash = "d5d228b88432a6045d9ac2ffd7cc0900e7a3eb8e622c08da38af35e8df71a19b"
+
+[[files]]
+file = "mods/RoughlyEnoughItems-9.1.595.jar"
+hash = "4a01985ce75198b20fca171f3d98fe5a4d04f8d91f7723e9dce37be998636ec3"
 
 [[files]]
 file = "mods/Structory-1.19-v1.3.jar"
